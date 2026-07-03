@@ -46,4 +46,5 @@ mvn verify
   "email": "awa@uvs.sn",
   "moyenne": 14.5
 }
+Test du webhook Jenkins - 03/07/2026
 ```
